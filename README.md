@@ -1,56 +1,37 @@
 # The Wealth of Nations Analysis
 
 ## Overview
+This project aims to analyze and visualize data from "The Wealth of Nations" dataset using both Excel and Tableau. The primary focus is on exploring various economic indicators and demographic factors of different countries.
 
-Welcome to the "The Wealth of Nations" project! In this project, I utilized Excel for data manipulation and analysis, and Tableau for creating interactive visualizations. The dataset used contains information about various countries, including life expectancy, smartphone users and GDP per capita.
+## Table of Contents
+- [Goals](#goals)
+- [Data Source](#data-source)
+- [Tools Used](#tools-used)
+- [Repository Contents](#repository-contents)
 
-## Excel Analysis
+## Goals
+The main objectives of this project are:
+- To analyze and visualize data from "The Wealth of Nations" dataset to draw insights into the economic and demographic aspects of various countries by:
+- Utilize Excel to create tables, apply filtering, generate charts, and implement basic macros using the dataset provided
+- Use Tableau to create four specific charts and combine them into a final dashboard.
+- Analyze and visualize data from "The Wealth of Nations" dataset to draw insights into the economic and demographic aspects of various countries.
 
-### Features:
+## Data Source
+The dataset used for this project is titled "The Wealth of Nations", providing comprehensive information on economic and demographic indicators across different countries.
 
-- **Data Exploration:**
-  - Loaded "The Wealth of Nations" dataset into Excel.
-  - Explored the data using filtering and sorting techniques.
+## Tools Used
+- **Excel:** Employed for creating tables, applying filters, generating charts, and implementing basic macros.
+- **Tableau:** Utilized for creating specific charts using the dataset such as "Top 20 Countries by Life Expectancy", "Top 20 Countries by Smartphone Users", "Top 20 Countries GDP per capita by Life Expectancy at birth", and "Top 20 Countries by GDP per capita".
 
-- **Table Creation:**
-  - Created a table to organize and structure the dataset.
+## Repository Contents
+The repository contains the following key components:
+1. **Excel Folder:**
+   - Excel project file containing raw data which i used to create tables, charts and basic macros.
 
-- **Chart Creation:**
-  - Designed charts to visualize key insights.
-  - Explored relationships between variables using Excel's charting capabilities.
+2. **Tableau Folder:**
+   - Contains my Tableau workbook consisting of four charts and a final dashboard i created.
 
-- **Macros:**
-  - Implemented basic macros for automating repetitive tasks.
+3. **Assignment Folder**
+   - My assignment was to carry out tasks through the use of Excel and Tableau using the "The Wealth of Nations" dataset and display this via in depth annotated screenshots in the style of a "how-to" like guide.
 
-### [Link to Excel Workbook](https://github.com/Steven-Laurie/Excel-and-Tableau-Wealth-of-Nations-Project/blob/main/Gross%20Domestic%20Report%201.xlsm) 
-
-## Tableau Dashboard
-
-### Features:
-
-- **Top 20 Countries by Life Expectancy:**
-  - Visualized and ranked countries based on life expectancy in a table format.
-
-- **Top 20 Countries by Smartphone Users:**
-  - Created a symbol map showcasing countries with the highest number of smartphone users indicated by shape size.
-
-- **GDP per Capita Analysis:**
-  - Explored the relationship between GDP per capita and life expectancy at birth through a scatter plot.
-  - Visualisating the Top 20 Countries based on GDP per Capita using a bar chart.
-
-- **Interactive Dashboard:**
-  - Integrated all visualizations into an interactive Tableau dashboard for a comprehensive overview.
-
-### [Link to Tableau Dashboard](https://public.tableau.com/shared/KNCDKZQ87?:display_count=n&:origin=viz_share_link)
-
-## Getting Started
-
-1. Open the Excel workbook to explore the initial data analysis.
-
-2. Visit the Tableau dashboard link to interact with the visualizations.
-
-## Contact
-For any questions, feedback, or collaboration opportunities, feel free to reach out:
-
-### Email: stevenklaurie@gmail.com
-### LinkedIn: https://www.linkedin.com/in/steven-laurie/
+Feel free to explore the contents of this repository to understand the insights derived from the analysis of "The Wealth of Nations" dataset.
