@@ -31,10 +31,10 @@ The repository contains the following key components:
 2. **Tableau Folder:**
    - Contains my Tableau workbook consisting of four charts and a final dashboard i created.
 
-3. **Assignment Folder**
+3. **Assignment Folder:**
    - My assignment was to carry out tasks through the use of Excel and Tableau using the "The Wealth of Nations" dataset and display this via in depth annotated screenshots in the style of a "how-to" like guide.
   
-4. **Dataset Folder**
+4. **Dataset Folder:**
    - Folder containing the original raw dataset "The Wealth of Nations"
 
 Feel free to explore the contents of this repository to understand the insights derived from the analysis of "The Wealth of Nations" dataset.
