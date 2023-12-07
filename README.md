@@ -22,6 +22,7 @@ The dataset used for this project is titled "The Wealth of Nations", providing c
 ## Tools Used
 - **Excel:** Employed for creating tables, applying filters, generating charts, and implementing basic macros.
 - **Tableau:** Utilized for creating specific charts using the dataset such as "Top 20 Countries by Life Expectancy", "Top 20 Countries by Smartphone Users", "Top 20 Countries GDP per capita by Life Expectancy at birth", and "Top 20 Countries by GDP per capita".
+- **Word:** Used to create a workspace where i can showcase my understanding of tasks set via screenshots and annotation. 
 
 ## Repository Contents
 The repository contains the following key components:
